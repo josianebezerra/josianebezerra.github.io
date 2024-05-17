@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "2FNC3A47ZF.com.spotify.sdk.SPTLoginSampleApp",
+        "appID": "2FNC3A47ZF.com.spotify.sdk.SPTLoginSampleAppSwift",
         "paths": [ "/*", "/" ]
       }
     ]
