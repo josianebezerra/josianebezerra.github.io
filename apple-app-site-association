@@ -7,5 +7,8 @@
         "paths": [ "/*", "/" ]
       }
     ]
+  },
+  "webcredentials": {
+    "apps": [ "2FNC3A47ZF.com.spotify.SPTLoginSampleAppSwift" ]
   }
 }
